@@ -7,6 +7,14 @@ This project is a simple Student Management System created using C++. It allows 
 - **Update Student Information**: Modify the name of any student using their index.
 - **Delete Students**: Remove a student from the system by specifying their index.
 
+  ## Installation and Setup
+
+1. Clone this repository to your local machine.
+
+https://github.com/haniaadnan-10/StudentManagementSystem.git
+
+2. Navigate to the project directory and open the .cpp file in your preferred C++ IDE or text editor.
+
 ## Future Improvements
 - **File Handling**: Implement a feature to store student data persistently in a text file (e.g., students.txt), so the data remains available after the program closes.
 - **Input Validation**: Add better validation to ensure that users can only input valid data (e.g., preventing negative index numbers or invalid student names).
@@ -15,5 +23,5 @@ This project is a simple Student Management System created using C++. It allows 
 Feel free to fork this project and submit pull requests. If you have any questions or suggestions, don't hesitate to open an issue!
 
 ## About Me
-Hi, I'm Hania, a software engineering student. This project is part of my coursework, and it's been a great way for me to learn more about c++ and CRUP operations
+Hi, I'm Hania, a software engineering student. This project is part of my coursework, and it's been a great way for me to learn more about c++ and CRUD operations
 
